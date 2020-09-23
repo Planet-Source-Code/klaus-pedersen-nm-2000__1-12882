@@ -1,0 +1,19 @@
+This is a notice for all users:
+
+This version is for Windows 2000, as the "Net Send" command is
+not supported by Win 9x.
+
+Now, if anyone has a code, that can get it working under Win 9x,
+please, DO contact me if you would help me with that!
+
+Thank for using a moment of your time to read this!!!
+- Klaus Pedersen
+
+	E-Mail   :   nmb13978@vip.cybercity.dk
+	ICQ      :   53099224
+
+Notice:
+If you are a VB programmer, no matter if you are a beginner or immediate
+or even expert, I would like to chat and exchange code with YOU!
+Just write in the "Autorization Request" that you are a programmer, and
+I'll autorize you next time I get online!
